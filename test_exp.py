@@ -1,6 +1,6 @@
 import numpy as np
 from sklearn.datasets import load_digits
-from tsen_euc import euc_x
+from test_euc import euc_x
 
 
 def produce_p_matrix(distance, PERPLEXITY):
