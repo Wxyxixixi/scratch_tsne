@@ -4,7 +4,7 @@ Run file: Run the file tsne_wxy.py, with the data MNIST
 
 Datasets: If you want to use other datasets, change the dataset in the dataLoader.py
 
-Parameter Setting
+Parameter Setting: default PERLEXITY as 30, iteration 500, learining rate 1, momentum 0.5 to 0.8
 
 Display: (1)tsne results for MNIST is displayed as belowed
 
